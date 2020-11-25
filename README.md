@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Wei Xie received the M.Eng. degrees in Information and Communication Engineering from Guangdong University of Technology (GDUT), China in 2017. He is currently pursuing his Ph.D. in the domain of Information and Communication Engineering at South China University of Technology (SCUT), China. His research interests include various aspects of Signal Analysis and Machine Intelligence. His recent research has focused on the perceptual analysis of environmental sound in real life scenarios.
+
 
 ### Markdown
 
